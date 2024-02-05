@@ -1,0 +1,5 @@
+torch==2.2.0
+torchdata==0.7.1
+transformers==4.37.2
+datasets==2.16.1
+black==21.12b0
